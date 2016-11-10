@@ -1,0 +1,20 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~转台控制板-V1.1.PrjPCB|ReportField=ProjectFullPath~E:\资源(G：)\#个人项目\ADProject\转台控制板-V1.1\转台控制板-V1.1.PrjPCB|ReportField=Title~Bill of Materials For Project [转台控制板-V1.1.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~41|ReportField=ReportTime~15:48:13|ReportField=ReportDate~2016/4/19|ReportField=ReportDateTime~2016/4/19 15:48:13|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~李尧|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/4/19|ReportField=CurrentTime~15:47:58|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\资源(G：)\#个人项目\ADProject\转台控制板-V1.1\RevolvingStageController.SchDoc|ReportField=DocumentName~RevolvingStageController.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/4/19|ReportField=Organization~|ReportField=ProjectName~转台控制板-V1.1.PrjPCB|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~2016年3月25日14:44:48|ReportField=Title~转台控制板|ReportField=DataSourceFileName~转台控制板-V1.1.PrjPCB|ReportField=DataSourceFullPath~E:\资源(G：)\#个人项目\ADProject\转台控制板-V1.1\转台控制板-V1.1.PrjPCB
+0.1uF|Capacitor, 电容0603|C1, C2, C3, C7, C11, C18|0603|Cap|6
+20pF|Capacitor|C4, C5|0603|Cap|2
+1uF|Capacitor|C6, C12, C13, C14, C15, C16|0603|Cap|6
+10uF|Capacitor, 电容0603|C8, C9, C10, C17|0603|Cap|4
+COM0-DEBUG|Receptacle Assembly, 9 Position, Right Angle|CON1|DSUB1.385-2H9-M|D Connector 9|1
+PH2.0-4P|Header, 4-Pin|J1, J6|PH2.0-4P|Header 4|2
+XH2.54-4P|Header, 4-Pin|J2, J4|XH2.54-4|Header 4|2
+PH2.0-3P|Header, 3-Pin|J3, J5|PH2.0-3P|Header 3|2
+PH2.0-2P|插座PH2.0-2P|J7|PH2.0-2P|PH2.0-2P|1
+LED||L1|0603|LED|1
+1K|Resistor|R1, R8|0603|Res1|2
+10K|Resistor|R2, R5, R6, R7|0603|Res1|4
+10R|Resistor|R3, R4|0603|Res1|2
+SW-PB|Switch|S1|SW-KEY|SW-PB|1
+SOP-20||U1|SOP-20|74HC245|1
+LQFP48_N|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U2|LQFP48_N|STM32F030C8T6|1
+XC6503D331||U3|SOT23-5|XC6503Dxxx|1
+MAX3232ESE||U4|SOIC-16N|MAX3232|1
+8M||X1|HC-49SMD|XTAL|1

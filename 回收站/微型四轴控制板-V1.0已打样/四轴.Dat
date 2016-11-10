@@ -1,0 +1,20 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~四轴.PrjPCB|ReportField=ProjectFullPath~D:\#个人项目\ADProject\微型四轴控制板-V1.0\四轴.PrjPCB|ReportField=Title~Bill of Materials For Project [四轴.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~57|ReportField=ReportTime~16:21:55|ReportField=ReportDate~2016/3/28|ReportField=ReportDateTime~2016/3/28 16:21:55|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2016/3/28|ReportField=CurrentTime~16:21:32|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\#个人项目\ADProject\微型四轴控制板-V1.0\四轴.SchDoc|ReportField=DocumentName~四轴.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2016/3/28|ReportField=Organization~|ReportField=ProjectName~四轴.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~四轴PCB|ReportField=DataSourceFileName~四轴.PrjPCB|ReportField=DataSourceFullPath~D:\#个人项目\ADProject\微型四轴控制板-V1.0\四轴.PrjPCB
+C0603|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18|0603|Cap|18
+SS14|28V 1A|D1, D2, D3, D4|SMA|SS14|4
+PH2.0-4P|Header, 4-Pin|J1, J4|PH2.0-4P|Header 4|2
+Header 7|Header, 7-Pin|J2|HDR1X7|Header 7|1
+Header 4X2|Header, 4-Pin, Dual row|J3, J6|HDR2X4|Header 4X2|2
+Header 2|Header, 2-Pin|J5|XH2.54-2|Header 2|1
+LED||L1|0603|LED|1
+Header 2|Header, 2-Pin|P1, P2, P3, P4|HDR1X2|Header 2|4
+SI2306|N-Channel MOSFET|Q1, Q2, Q3, Q4|SOT-23_L|MOS-N|4
+R0603|Resistor|R1, R2, R3, R4, R6, R9, R11, R14|0603|Res1|8
+Res1|Resistor|R5, R10, R12, R13|0603|Res1|4
+10K|Resistor|R7|0603|Res1|1
+0R|Resistor|R8|0603|Res1|1
+SW-PB|Switch|S1|SPST-2|SW-PB|1
+SS12D07||S2|SS-12D07|SS12D07|1
+XC6503D331||U1|SOT23-5|XC6503Dxxx|1
+MPU6050S||U2|MPU6050S|MPU6050S|1
+STM32F103RCT6|256K Flash 48K RAM|U3|LQFP64_N|STM32F103RCT6|1
+8M||X1|HC-49SMD|XTAL|1

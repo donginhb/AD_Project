@@ -1,0 +1,16 @@
+8 其他连接器原理库
+  DC3-2.0-A-16P 原理图是20pin的
+
+5 芯片原理
+  SN74HC14DR与SN74HCT14DR风格不同。建议将SN74HCT14DR改成HC14风格
+
+6 模块封装
+  HOLE原理图里面还是大大的VIA
+  MARK是不是与TEST-POINT 1*1重复了
+7 PH XH 
+  1.25封装双击打开 原理图属性  default comment 还是 =value  这个会不会是我这里显示问题？
+  1.25封装类名字中的1 2 代表意义是？ 例如  1.25T-1-A-2P T与A中间的1不知道啥意思
+
+
+XL4013 4015没有对应PCB封装
+好多器件中的 default comment 还是 =value  这个会不会是我这里显示问题？
