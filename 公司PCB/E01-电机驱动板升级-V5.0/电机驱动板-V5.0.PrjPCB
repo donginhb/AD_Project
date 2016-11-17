@@ -83,6 +83,10 @@ GenerateClassCluster=0
 DocumentPath=Project Outputs for 电机驱动板-V5.0\Design Rule Check - 电机驱动板-V5.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=电机驱动板-V5.0.PcbDoc.htm
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=
