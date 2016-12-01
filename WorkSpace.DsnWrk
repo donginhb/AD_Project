@@ -16,3 +16,5 @@ ProjectPath=公司PCB\20160919-E01S-三种编码器\编码器板.PrjPcb
 ProjectPath=公司PCB\E01-电机驱动板升级-V5.0\电机驱动板-V5.0.PrjPCB
 [Project8]
 ProjectPath=公司PCB\存档工艺文件-电机驱动板-V4.5-20160612\工程文件\MotorControl-V4.5.PrjPCB
+[Project9]
+ProjectPath=ZigBee土壤传感板V1.0\ZigBee土壤传感板.PrjPCB
