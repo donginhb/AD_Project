@@ -1,6 +1,0 @@
-DRC Rules Export File for PCB: D:\#个人项目\ADProject\转台控制板-V1.0\PCB2.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=8.00
-RuleKind=Clearance|RuleName=mcu|Scope=Board|Minimum=7.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
