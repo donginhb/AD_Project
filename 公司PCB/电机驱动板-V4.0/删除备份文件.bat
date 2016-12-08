@@ -1,1 +1,0 @@
-del ./*.PcbLib.Zip
